@@ -1,0 +1,47 @@
+{
+    "course_module": "BBB",
+    "course_presentation": "2013J",
+    "prediction_cutoff_days": 60,
+    "target_definition": "Fail/Withdrawn=1; Pass/Distinction=0",
+    "eligible_students": 1783,
+    "training_records": 1426,
+    "test_records": 357,
+    "number_of_features": 15,
+    "feature_columns": [
+        "num_of_prev_attempts",
+        "studied_credits",
+        "assessments_submitted",
+        "mean_assessment_score",
+        "min_assessment_score",
+        "missing_assessment_scores",
+        "mean_days_after_due",
+        "late_submissions",
+        "assessments_due_by_cutoff",
+        "assessments_submitted_by_cutoff",
+        "has_assessment_evidence",
+        "total_vle_clicks",
+        "vle_activity_records",
+        "active_learning_days",
+        "unique_learning_resources"
+    ],
+    "vle_rows_scanned": 10655280,
+    "vle_course_rows": 452638,
+    "vle_rows_at_or_before_cutoff": 183003,
+    "accuracy": 0.7563025210084033,
+    "balanced_accuracy": 0.7367016049787094,
+    "precision_positive_class": 0.7165354330708661,
+    "recall_positive_class": 0.6408450704225352,
+    "f1_positive_class": 0.6765799256505576,
+    "roc_auc": 0.8058958401572224,
+    "confusion_matrix": [
+        [
+            179,
+            36
+        ],
+        [
+            51,
+            91
+        ]
+    ],
+    "validation_note": "Preliminary single stratified holdout evaluation; not yet externally or temporally validated."
+}

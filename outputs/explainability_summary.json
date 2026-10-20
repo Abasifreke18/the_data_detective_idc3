@@ -1,0 +1,7 @@
+{
+    "test_record_index": 129,
+    "predicted_fail_withdrawn_probability": 0.9982,
+    "predicted_class": 1,
+    "explanation_method": "LIME",
+    "warning": "This is a model prediction, not a diagnosis or proof of the causes of a student's academic outcome."
+}

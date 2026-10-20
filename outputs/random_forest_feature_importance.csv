@@ -1,0 +1,16 @@
+feature,random_forest_importance
+mean_assessment_score,0.13537964369096248
+min_assessment_score,0.10870372354424146
+total_vle_clicks,0.1063741615348351
+assessments_submitted,0.10372177620185112
+vle_activity_records,0.08927467868757358
+assessments_submitted_by_cutoff,0.08322275657975801
+missing_assessment_scores,0.07713468384941834
+active_learning_days,0.07486160036138596
+mean_days_after_due,0.06912020031898239
+unique_learning_resources,0.06711975016244298
+late_submissions,0.04484322128183378
+studied_credits,0.024397719922305057
+num_of_prev_attempts,0.012090264426226162
+has_assessment_evidence,0.003755819438183727
+assessments_due_by_cutoff,0.0

@@ -1,0 +1,16 @@
+feature,mean_absolute_shap
+mean_assessment_score,0.05559742030876308
+assessments_submitted,0.055233423779672906
+assessments_submitted_by_cutoff,0.045265620574081
+missing_assessment_scores,0.04311662192109884
+min_assessment_score,0.04080783266489739
+total_vle_clicks,0.03369245227421998
+mean_days_after_due,0.02322800670883529
+active_learning_days,0.020212619976262284
+late_submissions,0.019922663229497654
+studied_credits,0.018045698283901374
+vle_activity_records,0.015466034527312983
+unique_learning_resources,0.010844219124643872
+num_of_prev_attempts,0.00814802197863694
+has_assessment_evidence,0.00322610867851356
+assessments_due_by_cutoff,0.0

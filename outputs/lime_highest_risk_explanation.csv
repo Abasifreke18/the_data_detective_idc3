@@ -1,0 +1,16 @@
+feature_condition,contribution_to_class_1
+missing_assessment_scores > 0.00,0.110093121233545
+total_vle_clicks <= 72.00,0.044884556455770865
+num_of_prev_attempts <= 0.00,-0.02764017662910142
+60.00 < studied_credits <= 120.00,0.02062565255016619
+active_learning_days <= 7.25,0.019463925097712772
+60.00 < min_assessment_score <= 68.00,0.016706599751660785
+vle_activity_records <= 33.00,0.015512162787870057
+-1.00 < mean_days_after_due <= 0.00,-0.013271500754391572
+late_submissions <= 1.00,-0.013051939082522078
+73.00 < mean_assessment_score <= 79.33,0.011162731631834571
+12.00 < unique_learning_resources <= 20.00,0.010923580801338314
+assessments_submitted <= 3.00,0.0
+assessments_due_by_cutoff <= 3.00,0.0
+assessments_submitted_by_cutoff <= 3.00,0.0
+has_assessment_evidence <= 1.00,0.0

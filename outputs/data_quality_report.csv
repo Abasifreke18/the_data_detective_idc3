@@ -1,0 +1,6 @@
+file,rows,duplicate_rows,missing_cells,columns,note
+studentInfo.csv,32593,0,0,12,Raw CSV checks; semantic validation is separate.
+studentRegistration.csv,32593,0,0,5,Raw CSV checks; semantic validation is separate.
+assessments.csv,206,0,0,6,Raw CSV checks; semantic validation is separate.
+studentAssessment.csv,173912,0,0,5,Raw CSV checks; semantic validation is separate.
+studentVle.csv,10655280,Not computed,Not computed,6,Streamed in chunks; full-file duplicate and missing-cell audit not computed.
