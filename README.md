@@ -117,7 +117,7 @@ The model was evaluated on a held-out test set of 357 records.
 | F1 score — Fail / Withdrawn | 67.66% |
 | ROC-AUC | 80.59% |
 
-The saved model was also checked against the held-out predictions, with a maximum prediction difference of approximately \(2.2 \times 10^{-16}\).
+The saved model was also checked against the held-out predictions, with a maximum prediction difference of approximately \(2.2 × 10⁻¹⁶}\).
 
 These results describe performance on the evaluated test set and do not guarantee equivalent performance in other cohorts or institutions.
 
